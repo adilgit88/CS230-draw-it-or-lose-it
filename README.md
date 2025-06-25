@@ -1,5 +1,3 @@
-# CS230-draw-it-or-lose-it
-Software Design and Java Implementation for CS 230
 # CS 230 – Draw It or Lose It: Software Design Portfolio
 
 ## 📁 Contents
