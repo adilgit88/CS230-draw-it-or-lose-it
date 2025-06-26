@@ -30,23 +30,23 @@ The client required expanding their Android-only drawing game, *Draw It or Lose 
 
 ## 🧘‍♂️ Module 8: Journal Reflection
 
-**Who was the client and what were their software needs?**  
-The Gaming Room, creator of *Draw It or Lose It*, wanted to expand their Android game into a web-based app usable across desktop and mobile platforms.
+**1. Who was the client and what were their software needs?**
+The client was The Gaming Room, seeking to expand their existing Android-only game, Draw It or Lose It, into a web-based and multi-platform distributed application.
 
-**What did I do well?**  
-I structured the software design cleanly and applied design patterns effectively. My system evaluations were thorough and well-aligned with client needs.
+**2. What did you do particularly well in developing this documentation?**
+I clearly identified the client’s needs and applied design patterns effectively. My system evaluation was detailed and justified based on the requirements.
 
-**What helped during the design phase?**  
-The document gave me a clear framework to guide development. Writing out design constraints and platform decisions helped me avoid rework later.
+**3. What about the process of working through a design document did you find helpful when developing the code?**
+It helped me structure my thoughts and plan the development stages. By outlining design constraints and platform characteristics, I could make more informed decisions before writing code.
 
-**What would I revise?**  
-I would refine the UML diagram and make clearer connections between classes. Also, I’d break down the domain model with more real-use examples.
+**4. If you could revise one part of the work, what would it be?**
+I would include more technical diagrams like component or deployment diagrams for visual clarity. These would enhance communication with developers.
 
-**How did I meet user needs?**  
-By prioritizing cross-platform compatibility, secure login, and scalable architecture—all central to The Gaming Room’s expansion plan.
+**5. How did you interpret the user’s needs and implement them in your software design? Why is it important?**
+I broke down user stories and system goals into concrete components, such as ensuring unique names and single instances. Meeting user needs ensures the system is both functional and intuitive.
 
-**How did I approach software design and what will I do next time?**  
-I broke the problem into layers (presentation, logic, backend) and used proven patterns. In the future, I’ll integrate testing and CI/CD from the start.
+**6. How did you approach designing software? What would you use again in future designs?**
+I used modular thinking, applied common design patterns, and emphasized system scalability and security. In the future, I’ll also use tools like UML diagrams and agile documentation to improve the planning phase.
 
 ---
 
