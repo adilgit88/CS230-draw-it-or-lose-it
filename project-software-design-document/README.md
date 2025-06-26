@@ -1,4 +1,4 @@
-## 🧘‍♂️ Module 8: Journal Reflection
+## Module 8: Journal Reflection
 
 **1. Who was the client and what were their software needs?**
 The client was The Gaming Room, seeking to expand their existing Android-only game, Draw It or Lose It, into a web-based and multi-platform distributed application.
